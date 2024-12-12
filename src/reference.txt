@@ -1,0 +1,51 @@
+Reference:
+  Inicio: Dic 11, 2024    
+  Actualización: 
+  Tiempo: 4:14:08 de 7:33:39 
+Github - Repositorio:
+
+{JSON} Placeholder:
+    https://jsonplaceholder.typicode.com/
+SiteGround:
+    https://antonior124.sg-host.com/
+Curso de React: - 7:33:39
+    https://www.youtube.com/watch?v=ladwC6Lrs-M&t=15237s
+Folder:
+    C:\Proyectos\Repositorios\Sergio Code\React\react-vite-js-swc
+Task:
+    1.- [✅] Instalación programas
+    2.- [✅] React + Vite
+    3.- [✅] Components
+    4.- [✅] Variables
+    5.- [✅] Fragment
+    6.- [✅] Styles
+    7.- [⛔] Props
+    8.- [⛔] Eventos 
+    9.- [⛔] useState
+    10.-[⛔] Condicionales y ternarios
+    11.-[⛔] Map
+    12.-[⛔] className
+    13.-[⛔] Formulario
+    14.-[⛔] Comunicación entre componentes
+    15.-[⛔] Envío de Información desde el Child
+    16.-[✅] useEffect / fetch -> 2:23:16
+    17.-[✅] Build and Dist -> 2:43:16 (SiteGround)
+    18.-[✴️] Custom Hook -> 2:48:21 
+    19.-[⛔] tema
+    20.-[⛔] tema
+    21.-[⛔] tema
+    22.-[⛔] tema
+    23.-[⛔] tema
+    24.-[⛔] tema
+    25.-[⛔] tema
+☆*: .｡. o(≧▽≦)o .｡.:*☆
+(❁´◡`❁)
+(●'◡'●)
+╰(*°▽°*)╯
+(*/ω＼*)
+(^///^)
+:-)
+^_^
+:-D
+ᓚᘏᗢ(┬┬﹏┬┬)ಥ_ಥ（＾∀＾●）ﾉｼ
+✍️(◔◡◔)┗( T﹏T )┛
