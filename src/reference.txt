@@ -1,18 +1,24 @@
 Reference:
   Inicio: Dic 11, 2024    
-  Actualización: 
+  Actualización: Dic 13, 2024
   Tiempo: 4:14:08 de 7:33:39 
+Documentación:
+   C:\Proyectos\Vite\Vite.docx
 Github - Repositorio:
     https://github.com/antoniorm80/React-SiteGround
-{JSON} Placeholder:
-    https://jsonplaceholder.typicode.com/
+APIs Fake:
+    {JSON} Placeholder:
+        https://jsonplaceholder.typicode.com/
+    {Clima}:
+        https://openweathermap.org/api -> antoniorm80, ariverarm80@gmail.com, Open###m***sg
+        c19c199d65a1f94340805e76e9adf9cc
 SiteGround:
     https://antonior124.sg-host.com/
 Curso de React: - 7:33:39
     https://www.youtube.com/watch?v=ladwC6Lrs-M&t=15237s
 Folder:
     C:\Proyectos\Repositorios\Sergio Code\React\react-vite-js-swc
-Task:
+Task: ✅✴️⛔
     1.- [✅] Instalación programas
     2.- [✅] React + Vite
     3.- [✅] Components
@@ -31,21 +37,21 @@ Task:
     16.-[✅] useEffect / fetch -> 2:23:16
     17.-[✅] Build and Dist -> 2:43:16 (SiteGround)
     18.-[✴️] Custom Hook -> 2:48:21 
-    19.-[⛔] tema
-    20.-[⛔] tema
-    21.-[⛔] tema
-    22.-[⛔] tema
-    23.-[⛔] tema
-    24.-[⛔] tema
-    25.-[⛔] tema
-☆*: .｡. o(≧▽≦)o .｡.:*☆
-(❁´◡`❁)
-(●'◡'●)
-╰(*°▽°*)╯
-(*/ω＼*)
-(^///^)
-:-)
-^_^
-:-D
-ᓚᘏᗢ(┬┬﹏┬┬)ಥ_ಥ（＾∀＾●）ﾉｼ
-✍️(◔◡◔)┗( T﹏T )┛
+    19.-[⛔] -----
+    20.-[⛔] -----
+    21.-[⛔] -----
+    22.-[⛔] -----
+    23.-[⛔] -----
+    24.-[✅] useRef -> 3:52:24
+    25.-[⛔] useMamo -> 3:57:01
+    26.-[⛔] -----
+    27.-[⛔] Reducer -> 4:19:18  *** Es muy Complicado
+    28.-[⛔] useCallBack -> 4:19:18
+    29.-[✅] React Router DOM -> 4:59:40
+    30.-[✅] useContext -> 5:17:21
+    31.-[✅] Proyecto: Aplicación del Clima -> 5:40:06
+    32.-[✴️] Proyecto: Buscador de Películas -> 6:10:53
+    33.-[⛔] Proyecto: Carrito de Compras -> 6:29:49
+    34.-[⛔] Despedida -> 7:32:30
+    
+

@@ -1,8 +1,12 @@
 body, html {
-    background-color: black;
-    color: white;
+    /* background-color: black;
+    color: white; */
     font-family:Verdana, Geneva, Tahoma, sans-serif;    
-    padding: 25px;
+    padding: 3px;
+}
+
+span {
+    font-size: small;
 }
 
 ul li {
